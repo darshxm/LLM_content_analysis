@@ -15,3 +15,12 @@ This is what I used to analyze the distributions of narrative elements, make N-g
 
 # Narrativity Index
 Here, I make the narrativity index distributions for the coded articles.
+
+# Setting Plot Thesis
+Here, I plot the settings as identified in the articles. The area in the settings should be aggregated to a district level, which will involve a fair amount of manual work, but in the end it yields a beautiful map of India with the settings highlighted according to count.
+
+# Sequential Model - RAG
+Here, you can use an LLM of your choice, all you need is a HuggingFace Token. Retrieval Augmented Generation has also been enabled to add the codebook or other relevant data to reduce LLM hallucination.
+
+# Manually Coded Articles
+This is the dataset of 297 articles that I manually annotated using the codebook developed.
