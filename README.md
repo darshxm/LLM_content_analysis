@@ -24,3 +24,9 @@ Here, you can use an LLM of your choice, all you need is a HuggingFace Token. Re
 
 # Manually Coded Articles
 This is the dataset of 297 articles that I manually annotated using the codebook developed.
+
+# Full Dataset of News Articles
+The full dataset is available here - https://drive.google.com/file/d/14oclog2Xjf7lVOGNTW09ucvcb9b4plPC/view?usp=sharing
+
+# Gemini output {number} with postprocessing
+These are the datasets where the annotation was done by Google Gemini 1.5 Flash.
